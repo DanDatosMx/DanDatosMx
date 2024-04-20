@@ -1,10 +1,12 @@
 <h1 align="center"> Hi there 👋, I'm Oscar Téllez</h1>
  
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+page...;%3C%2F%3E+DanDatos;Data+Analyst+%26+Automation+Expert+;Excel+(VBA)+%7C+Python+%7C+R+%7C+PowerBI" alt="Typing SVG">
 	</a>
 </p>
+
+
 
 # 💻Data Analyst & Soft Automation (DAA) <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -22,13 +24,14 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
 </p>
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+📊 <strong>Data Collection and Analysis:</strong> Collects and analyzes data from various sources to identify patterns and trends.
+🤖 <strong>Model and Algorithm Development:</strong> Create models and algorithms to analyze data and extract relevant insights.
+⚙️ <strong>Process Automation:</strong> Use tools and technologies to automate tasks and improve efficiency.
+📊 <strong>Data Visualization:</strong> Use visualization tools to present information in a clear and understandable manner.
+📋 <strong>Report Generation:</strong> Create reports summarizing findings from data analysis.
+🔄 <strong>Process Optimization:</strong> Identify areas for improvement in business processes and propose data-driven solutions.
+👥 <strong>Collaboration with Cross-functional Teams:</strong> Work collaboratively with other professionals to address challenges and find solutions.
+💾 <strong>Database Maintenance and Management:</strong> Oversee and maintain databases to ensure data integrity and availability.
 </pre>
 
 
