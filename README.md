@@ -10,7 +10,7 @@
 
 # 💻Data Analyst & Soft Automation (DAA) <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-<p align="justify">Experto en Economía y Análisis de Datos con experiencia en automatización de procesos, desarrollo de informes y modelado de información. Especializado en Desarrollo Social y con un enfoque en la eficiencia y la toma de decisiones basada en datos. Destaco por mi habilidad para fomentar la automatización de procesos y la gestión de estrategias para mejorar la eficiencia operativa. Con una sólida trayectoria en la gestión de bases de datos, indicadores de gestión y análisis estadístico, estoy listo para contribuir al éxito de tu equipo y lograr resultados excepcionales en el campo de la Economía y el Análisis de Datos</p>
+<p align="justify">Soy un experto en Economía y Análisis de Datos con experiencia en automatización de procesos, desarrollo de informes y modelado de información. Me especializo en Desarrollo Social y me enfoco en la eficiencia y la toma de decisiones basada en datos. 💪📊 Tengo habilidades en la gestión de bases de datos, indicadores de gestión y análisis estadístico. 📈🔍 Como Data Analyst & Automation (DAA), utilizo herramientas avanzadas de automatización para agilizar procesos y liberar tiempo para la interpretación de resultados. ⚙️⏱️ Estoy listo para contribuir al éxito de tu equipo y lograr resultados excepcionales en Economía y Análisis de Datos. 🚀📊</p>
 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [oscar.tellez@live.com.mx](mailto:oscar.tellez@live.com.mx)
