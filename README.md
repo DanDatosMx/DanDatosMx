@@ -22,20 +22,27 @@
 
 
 <pre>
-📊 <strong>Data Collection and Analysis:</strong> 
+📊 <strong>Data Collection and Analysis:</strong>
 Collects and analyzes data from various sources to identify patterns and trends.
+
 🤖 <strong>Model and Algorithm Development:</strong> 
 Create models and algorithms to analyze data and extract relevant insights.
+
 ⚙️ <strong>Process Automation:</strong> 
 Use tools and technologies to automate tasks and improve efficiency.
+
 📊 <strong>Data Visualization:</strong> 
 Use visualization tools to present information in a clear and understandable manner.
+
 📋 <strong>Report Generation:</strong> 
 Create reports summarizing findings from data analysis.
+
 🔄 <strong>Process Optimization:</strong> 
 Identify areas for improvement in business processes and propose data-driven solutions.
+
 👥 <strong>Collaboration with Cross-functional Teams:</strong> 
 Work collaboratively with other professionals to address challenges and find solutions.
+
 💾 <strong>Database Maintenance and Management:</strong> 
 Oversee and maintain databases to ensure data integrity and availability.
 </pre>
